@@ -1,1 +1,1 @@
-# Simple Continuous Integration Lightweight Automation
+# SICILIA - SImple Continuous Integration LIghtweight Automation
