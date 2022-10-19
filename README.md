@@ -1,1 +1,1 @@
-# SICILIA - SImple Continuous Integration LIghtweight Automation
+# JABBA - Json for A Better Build Automation
